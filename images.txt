@@ -1,2 +1,1 @@
-busybox:latest
-nginx:1.26.3-alpine3.20
+mysql:8.0.41-oraclelinux9
