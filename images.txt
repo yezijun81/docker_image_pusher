@@ -1,1 +1,1 @@
-mysql:8.0.41-oraclelinux9
+redis:6.2.17-alpine3.21
