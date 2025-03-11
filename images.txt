@@ -1,1 +1,1 @@
-redis:6.2.17-alpine3.21
+dyrnq/pause:3.9
