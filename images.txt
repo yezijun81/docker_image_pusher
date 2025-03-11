@@ -1,1 +1,1 @@
-calico/kube-controllers:v3.25.0
+prometheus-adapter:v0.12.0
