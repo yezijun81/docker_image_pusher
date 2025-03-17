@@ -1,1 +1,1 @@
-alpinelinux/gitlab:17.8.5
+gitlab/gitlab-ce
