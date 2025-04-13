@@ -1,1 +1,1 @@
-mysql:8.0.39-oracle
+container-registry.oracle.com/database/free:latest
