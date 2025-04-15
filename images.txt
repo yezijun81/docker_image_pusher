@@ -1,1 +1,1 @@
-container-registry.oracle.com/database/enterprise:latest
+container-registry.oracle.com/v2/database/enterprise:19.19.0.0
