@@ -1,1 +1,1 @@
-docker.io/istio/proxyv2:1.25.2
+tomcat:9.0.104-jdk11-corretto
