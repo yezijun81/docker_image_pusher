@@ -1,1 +1,1 @@
-tomcat:9.0.104-jdk11-corretto
+tomcat:8.5.100-jre17-temurin-focal
