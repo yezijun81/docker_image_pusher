@@ -1,1 +1,1 @@
-tomcat:8.5.100-jre17-temurin-focal
+docker.io/calico/cni:v3.29.3
