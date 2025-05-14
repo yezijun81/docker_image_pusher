@@ -1,1 +1,1 @@
-docker.io/calico/kube-controllers:v3.29.3
+registry.k8s.io/ingress-nginx/controller:v1.12.2@sha256:03497ee984628e95eca9b2279e3f3a3c1685dd48635479e627d219f00c8eefa9
